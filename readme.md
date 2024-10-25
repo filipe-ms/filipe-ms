@@ -1,4 +1,4 @@
-<h3>Hello, I'm a developer passionate about productivity and user-friendly solutions!</h3>
+<h3 align="center">Hello, I'm Filipe! I'm passionate about productivity and user-friendly solutions!</h3>
 <p>
     I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, 
     and create better user experiences. I'm also enthusiastic about challenges and continuously optimizing code.
@@ -8,21 +8,21 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-ms&show_icons=true&locale=en&layout=compact" alt="filipe-ms" />
 </p>
 
-<h3 align="left">Currently working on:</h3>
+<h3 align="center">Currently working on:</h3>
 <ul>
     <li>
-        <a href="https://github.com/filipe-ms/BlockIt">BlockIt</a>
+        <a href="https://github.com/filipe-ms/BlockIt">BlockIt</a> - A productivity tool to block distractions.
     </li>
     <li>
-        <a href="https://github.com/andgabx/MyRetroGameList">MyRetroGameList</a>
+        <a href="https://github.com/andgabx/MyRetroGameList">MyRetroGameList</a> - Track and organize retro games you play or want to play.
     </li>
     <li>
-        <a href="https://github.com/jhrvo0/Rizoma">Rizoma</a>
+        <a href="https://github.com/jhrvo0/Rizoma">Rizoma</a> - A tool developed to help small farmers manage their planting, harvesting, and handling activities in a simple and efficient way.
     </li>
 </ul>
 
-<h3 align="left">Languages I've worked with:</h3>
-<p align="left">
+<h3 align="center">Languages I've worked with:</h3>
+<p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     </a>
@@ -43,8 +43,8 @@
     </a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
+<h3 align="center">Frameworks:</h3>
+<p align="center">
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
     </a>
@@ -56,8 +56,8 @@
     </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
     </a>
@@ -80,3 +80,5 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
     </a>
 </p>
+
+<p align="center">Feel free to connect or check out my projects! 🚀</p>
