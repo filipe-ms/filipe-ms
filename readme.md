@@ -1,14 +1,9 @@
-<h3>Hello, I'm Filipe!</h3>
+<h2>Hello, I'm Filipe!</h2>
 
 <p>I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, and create better user experiences. I'm also enthusiastic about challenges and love to learn new ways to optimize code.</p>
 
-<h3>GitHub Stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-ms&show_icons=true&locale=en&layout=compact&hide=Makefile,lua&theme=radical">
-</p>
 
-
-<h3>Tech Stack</h3>
+<h2>Tech Stack</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -30,9 +25,12 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
+<h2>My stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-ms&show_icons=true&locale=en&layout=compact&hide=Makefile,lua&theme=radical">
+</p>
 
-
-<h3>Currently working on...</h3>
+<h2>Currently working on...</h2>
 <ul>
     <li><a href="https://github.com/filipe-ms/BlockIt">BlockIt</a> - A productivity tool to block distractions.</li>
     <li><a href="https://github.com/andgabx/MyRetroGameList">MyRetroGameList</a> - Track and organize retro games you play or want to play.</li>
