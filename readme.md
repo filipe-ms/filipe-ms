@@ -3,7 +3,7 @@
 <p>I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, and create better user experiences. I'm also enthusiastic about challenges and love to learn new ways to optimize code.</p>
 
 
-<h2>Tech Stack</h2>
+<h2>My tech Stack</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
