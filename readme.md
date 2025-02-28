@@ -1,7 +1,6 @@
-<h3 align="center">Hello, I'm Filipe!</h3>
+<h3>Hello, I'm Filipe!</h3>
 
-<h3>About Me</h3>
-<p>I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, and create better user experiences. I'm also enthusiastic about challenges and continuously optimizing code.</p>
+<p>I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, and create better user experiences. I'm also enthusiastic about challenges and love to learn new ways to optimize code.</p>
 
 <h3>GitHub Stats</h3>
 <p align="center">
