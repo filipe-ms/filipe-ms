@@ -1,8 +1,4 @@
 <h3 align="center">Hello, I'm Filipe!</h3>
-<p align="center">I'm passionate about productivity and user-friendly solutions!</p>
-<p align="center">
-    <a href="https://www.linkedin.com/in/lfilipems/"><img src="https://img.shields.io/badge/LinkedIn-Filipe-blue?logo=linkedin"></a>
-</p>
 
 <h3>About Me</h3>
 <p>I enjoy building tools and applications that enhance productivity, streamline workflows, eliminate hassles, and create better user experiences. I'm also enthusiastic about challenges and continuously optimizing code.</p>
